@@ -1,0 +1,3 @@
+catboost_*
+**__pycache__*
+**.tmp
